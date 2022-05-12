@@ -2,18 +2,24 @@
 
 
 ## I'm a Data Scientist and I live in Paris, France
-
-
-### Languages and Tools:
-
-[![Python](https://img.shields.io/badge/Python-3b78a7.svg?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
-[![C](https://img.shields.io/badge/C-2570ae.svg?style=flat-square&logo=c&logoColor=white)](https://www.iso.org/standard/74528.html)
-[![C++](https://img.shields.io/badge/C%2b%2b-659bd3.svg?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org)
-[![Java](https://img.shields.io/badge/Java-ea2e2d.svg?style=flat-square&logo=java&logoColor=white)](https://www.oracle.com/java)
-[![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e.svg?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![SQL](https://img.shields.io/badge/SQL-eeeeee.svg?style=flat-square&logo=mysql&logoColor=black)](https://www.iso.org/standard/63555.html)
-[![HTML](https://img.shields.io/badge/HTML-f16625?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org)
-[![CSS](https://img.shields.io/badge/CSS-264ee4?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS)  
+  
+  
+### 🚀 Tools and Technologies I use:
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original-wordmark.svg" alt="Python" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/postgresql/postgresql-original-wordmark.svg" alt="Postgresql" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pycharm/pycharm-original-wordmark.svg" alt="Pycharm" width="25" height="25" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="25" height="25" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/flask/flask-original-wordmark.svg" alt="Flask" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original-wordmark.svg" alt="Github" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/heroku/heroku-original-wordmark.svg" alt="Heroku" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original-wordmark.svg" alt="Java" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/numpy/numpy-original-wordmark.svg" alt="Numpy" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="25" height="25" />
+</p>
 
 ### Find me here:
 [![](https://img.shields.io/badge/LinkedIn-0a66c2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utsavpandey)
