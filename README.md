@@ -1,7 +1,7 @@
 # Hi there, I'm Utsav 👋 
 
 
-## I'm a Data Science & Analytics student @Epita and I live in Paris, France
+## I'm a Data Science & Analytics student @Epita
   
   
 ### 🚀 Tools and Technologies I use:
