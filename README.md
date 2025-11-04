@@ -1,7 +1,7 @@
 # Hi there, I'm Utsav 👋 
 
 
-## I'm a Data Science & Analytics student @Epita
+## I'm a Data Engineer
   
   
 ### 🚀 Tools and Technologies I use:
