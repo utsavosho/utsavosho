@@ -1,4 +1,4 @@
-# Hi there, I'm Utsav 👋 currently living in Paris, France
+# Hi there, I'm Utsav 👋
 
 
 ## 💼 I work at [nricher](https://www.nricher.io) as a Data Engineer.
