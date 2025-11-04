@@ -1,7 +1,10 @@
-# Hi there, I'm Utsav 👋 
+# Hi there, I'm Utsav 👋 currently living in Paris, France
 
 
-## Working in Data Domain as a Data Engineer
+## 💼 I work at [nricher](https://www.nricher.io) as a Data Engineer.
+
+
+
   
   
 ### 🚀 Tools and Technologies I use:
