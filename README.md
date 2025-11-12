@@ -1,12 +1,5 @@
 # Hi there, I'm Utsav 👋
 
-
-## 💼 I work at [nricher](https://www.nricher.io) as a Data Engineer.
-
-
-
-  
-  
 ### 🚀 Tools and Technologies I use:
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original-wordmark.svg" alt="Python" width="25" height="25" />
