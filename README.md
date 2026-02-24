@@ -9,11 +9,10 @@
 
 ### 🧠 About Me
 
-- 💼 Data Analyst / Data Engineer based in Paris 🇫🇷  
+- 💼 Data Engineer based in Paris 🇫🇷  
 - 🐍 Strong in Python & SQL  
 - ⚙️ Love building pipelines, scrapers, and automation  
-- 📈 Always learning & improving  
-- 🌍 Open to international opportunities  
+- 📈 Always learning & improving 
 
 ---
 
@@ -38,7 +37,7 @@
 
 - 🔹 Data Engineering & ETL Pipelines  
 - 🔹 Web Scraping & Automation  
-- 🔹 Cloud Architecture (AWS)  
+- 🔹 Cloud Architecture  
 - 🔹 Backend Development  
 - 🔹 Analytics & Visualization  
 
