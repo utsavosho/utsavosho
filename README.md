@@ -67,4 +67,3 @@
 
 ---
 
-🔥 *“Code. Learn. Improve. Repeat.”*
