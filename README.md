@@ -10,7 +10,6 @@
 ### 🧠 About Me
 
 - 💼 Data Engineer based in Paris 🇫🇷  
-- 🐍 Strong in Python & SQL  
 - ⚙️ Love building pipelines, scrapers, and automation  
 - 📈 Always learning & improving 
 
