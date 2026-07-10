@@ -18,7 +18,8 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-
+<img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="45" alt="Snowflake" />
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/dbt-icon.svg" width="45" alt="dbt" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" />
